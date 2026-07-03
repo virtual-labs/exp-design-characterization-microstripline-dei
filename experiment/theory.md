@@ -12,4 +12,4 @@ Multiconductor structures that support TEM or non - TEM modes of propagation are
 
 The power-handling capability of a transmission line is limited by dielectric breakdown and by heating due to attenuation. The electrical breakdown limits the peak power, while the increase in temperature due to conductor and dielectric losses limits the average power.
 
-            At normal temperature and pressure, the breakdown electric field of dry air is 2.9 x 106 V/m. Using this and by calculating the maximum field strength, the peak power-handling capability of a transmission line is readily determined.
+At normal temperature and pressure, the breakdown electric field of dry air is 2.9 x 106 V/m. Using this and by calculating the maximum field strength, the peak power-handling capability of a transmission line is readily determined.
