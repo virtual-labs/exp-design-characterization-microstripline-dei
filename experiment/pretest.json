@@ -2,29 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The microwave frequency range is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "30 Hz–300 Hz",
+        "b": "300 kHz–3 MHz",
+        "c": "300 MHz–300 GHz",
+        "d": "3 THz–30 THz"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +16,91 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which mode has both electric and magnetic fields completely transverse to the direction of propagation?",
+      "answers": {
+        "a": "TE",
+        "b": "TM",
+        "c": "TEM",
+        "d": "Hybrid"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which transmission line supports pure TEM mode?",
+      "answers": {
+        "a": "Rectangular waveguide",
+        "b": "Circular waveguide",
+        "c": "Coaxial cable",
+        "d": "Horn antenna"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The main purpose of impedance matching is to:",
+      "answers": {
+        "a": "Increase frequency",
+        "b": "Reduce reflections",
+        "c": "Increase voltage",
+        "d": "Reduce current"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Microstrip lines are fabricated on:",
+      "answers": {
+        "a": "Air only",
+        "b": "Metal only",
+        "c": "Dielectric substrate",
+        "d": "Plastic only"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A microstrip line consists of:",
+      "answers": {
+        "a": "Two parallel conductors in air",
+        "b": "A conducting strip over a dielectric substrate with a ground plane",
+        "c": "Two coaxial conductors",
+        "d": "Hollow metallic tube"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
