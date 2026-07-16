@@ -2,9 +2,9 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.	A microstrip line supports which mode of propagation?",
       "answers": {
-        "a": "answer1",
+        "a": "TEM",
         "b": "answer2",
         "c": "answer3",
         "d": "answer4"
