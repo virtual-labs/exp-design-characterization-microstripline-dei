@@ -1,0 +1,110 @@
+[
+  {
+    "number": 1,
+    "question": "A microstrip line supports which mode of propagation?",
+    "answers": {
+      "a": "TEM",
+      "b": "TE",
+      "c": "TM",
+      "d": "Quasi-TEM"
+    },
+    "explanations": {
+      "a": "Explanation 1",
+      "b": "Explanation 2",
+      "c": "Explanation 3",
+      "d": "Explanation 4"
+    },
+    "correctAnswer": "d",
+    "difficulty": "beginner"
+  },
+  {
+    "number": 2,
+    "question": "The characteristic impedance of a microstrip line mainly depends on:",
+    "answers": {
+      "a": "Frequency only",
+      "b": "Strip width, substrate thickness, and dielectric constant",
+      "c": "Temperature only",
+      "d": "Strip length only"
+    },
+    "explanations": {
+      "a": "Explanation 1",
+      "b": "Explanation 2",
+      "c": "Explanation 3",
+      "d": "Explanation 4"
+    },
+    "correctAnswer": "b",
+    "difficulty": "beginner"
+  },
+  {
+    "number": 3,
+    "question": "Increasing the width of a microstrip line generally:",
+    "answers": {
+      "a": "Increases characteristic impedance",
+      "b": "Decreases characteristic impedance",
+      "c": "Has no effect",
+      "d": "Doubles the propagation speed"
+    },
+    "explanations": {
+      "a": "Explanation 1",
+      "b": "Explanation 2",
+      "c": "Explanation 3",
+      "d": "Explanation 4"
+    },
+    "correctAnswer": "b",
+    "difficulty": "beginner"
+  },
+  {
+    "number": 4,
+    "question": "Which loss is usually dominant at high microwave frequencies?",
+    "answers": {
+      "a": "Mechanical loss",
+      "b": "Conductor and dielectric losses",
+      "c": "Gravitational loss",
+      "d": "Optical loss"
+    },
+    "explanations": {
+      "a": "Explanation 1",
+      "b": "Explanation 2",
+      "c": "Explanation 3",
+      "d": "Explanation 4"
+    },
+    "correctAnswer": "b",
+    "difficulty": "beginner"
+  },
+  {
+    "number": 5,
+    "question": "A 50 Ω microstrip line is commonly used because:",
+    "answers": {
+      "a": "It gives maximum voltage gain",
+      "b": "It eliminates all losses",
+      "c": "It is a standard impedance for RF systems",
+      "d": "It supports only TEM mode"
+    },
+    "explanations": {
+      "a": "Explanation 1",
+      "b": "Explanation 2",
+      "c": "Explanation 3",
+      "d": "Explanation 4"
+    },
+    "correctAnswer": "c",
+    "difficulty": "beginner"
+  },
+  {
+    "number": 6,
+    "question": "Radiation loss in a microstrip line occurs because:",
+    "answers": {
+      "a": "It is completely shielded",
+      "b": "Part of the electromagnetic field exists in air",
+      "c": "The conductor is superconducting",
+      "d": "The substrate has zero thickness"
+    },
+    "explanations": {
+      "a": "Explanation 1",
+      "b": "Explanation 2",
+      "c": "Explanation 3",
+      "d": "Explanation 4"
+    },
+    "correctAnswer": "b",
+    "difficulty": "beginner"
+  }
+]
