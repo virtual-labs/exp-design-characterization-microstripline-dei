@@ -3,7 +3,7 @@
   "questions": [
     {
       "number": 1,
-      "question": "The microwave frequency range is:",
+      "question": "Q1. The microwave frequency range is:",
       "answers": {
         "a": "30 Hz–300 Hz",
         "b": "300 kHz–3 MHz",
@@ -21,7 +21,7 @@
     },
     {
       "number": 2,
-      "question": "Which mode has both electric and magnetic fields completely transverse to the direction of propagation?",
+      "question": "Q2. Which mode has both electric and magnetic fields completely transverse to the direction of propagation?",
       "answers": {
         "a": "TE",
         "b": "TM",
@@ -39,7 +39,7 @@
     },
     {
       "number": 3,
-      "question": "Which transmission line supports pure TEM mode?",
+      "question": "Q3. Which transmission line supports pure TEM mode?",
       "answers": {
         "a": "Rectangular waveguide",
         "b": "Circular waveguide",
@@ -57,7 +57,7 @@
     },
     {
       "number": 4,
-      "question": "The main purpose of impedance matching is to:",
+      "question": "Q4. The main purpose of impedance matching is to:",
       "answers": {
         "a": "Increase frequency",
         "b": "Reduce reflections",
@@ -75,7 +75,7 @@
     },
     {
       "number": 5,
-      "question": "Microstrip lines are fabricated on:",
+      "question": "Q5. Microstrip lines are fabricated on:",
       "answers": {
         "a": "Air only",
         "b": "Metal only",
@@ -89,24 +89,6 @@
         "d": "Explanation 4"
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "number": 6,
-      "question": "A microstrip line consists of:",
-      "answers": {
-        "a": "Two parallel conductors in air",
-        "b": "A conducting strip over a dielectric substrate with a ground plane",
-        "c": "Two coaxial conductors",
-        "d": "Hollow metallic tube"
-      },
-      "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 3",
-        "d": "Explanation 4"
-      },
-      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
